@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://odyexc.com/sitemap.xml
