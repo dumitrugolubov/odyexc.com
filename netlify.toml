@@ -1,4 +1,22 @@
 [[redirects]]
+  from = "http://odyexc.com/*"
+  to = "https://www.odyexc.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://www.odyexc.com/*"
+  to = "https://www.odyexc.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://odyexc.com/*"
+  to = "https://www.odyexc.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/*"
   to = "/index.html"
   status = 200
