@@ -1,18 +1,5 @@
 [[redirects]]
-  from = "/*"
-  to = "https://www.odyexc.com/:splat"
-  status = 301
-  force = true
-  conditions = {Protocol = ["http"]}
-
-[[redirects]]
-  from = "https://odyexc.com/*"
-  to = "https://www.odyexc.com/:splat"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/*"
+  from = "/"
   to = "/index.html"
   status = 200
 
